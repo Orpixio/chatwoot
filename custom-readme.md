@@ -1,0 +1,15 @@
+-- jika ada update image
+docker compose run --rm rails bundle exec rails db:chatwoot_prepare
+
+-- db migrate
+docker compose run --rm rails bundle exec rails db:migrate
+
+-- jika mau reset db
+docker compose run --rm rails bundle exec rails db:reset
+
+-- compose up down
+docker compose up -d --remove-orphans
+docker compose down
+
+-- build image
+docker buildx build --platform linux/amd64 -t andia/chatwoot:v3.15.0 -f ./docker/Dockerfile .

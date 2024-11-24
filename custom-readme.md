@@ -19,3 +19,6 @@ docker push devopsorpix/cep:v1.0.0
 
 -- masuk ke container postgres
 docker exec -it chatwoot-postgres-1 bash
+
+-- pull image (after login to hub)
+-- docker pull devopsorpix/cep:v1.0.0

@@ -90,7 +90,7 @@
       },
       "HELP_TEXT": {
         "TITLE": "Slack integracijos naudojimas",
-        "BODY": "<br/><p>Dabar ORPIX.IO sinchronizuos visus gaunamus pokalbius į <b><i>kliento pokalbiai</i></b> kanalą jūsų laisvoje darbo vietoje.</p><p>Atsakymas į pokalbių giją <b><i>kliento pokalbiai</i></b> Slack kanale pateiks atsakymą klientui per chatwoot.</p><p>Atsakymus pradėkite naudodami <b><i> pastaba:</i></b> jei norite sukurti privačias pastabas, o ne atsakymus.</p><p>Jei „slack“ atsakytojas turi agento profilį „chatwoot“ tuo pačiu el. pašto adresu, atsakymai bus atitinkamai susieti.</p><p> p><p>Kai atsakiklis neturi susieto agento profilio, atsakymai bus pateikiami iš boto profilio.</p>",
+        "BODY": "<br/><p>Dabar ORPIX.IO sinchronizuos visus gaunamus pokalbius į <b><i>kliento pokalbiai</i></b> kanalą jūsų laisvoje darbo vietoje.</p><p>Atsakymas į pokalbių giją <b><i>kliento pokalbiai</i></b> Slack kanale pateiks atsakymą klientui per orpix.io.</p><p>Atsakymus pradėkite naudodami <b><i> pastaba:</i></b> jei norite sukurti privačias pastabas, o ne atsakymus.</p><p>Jei „slack“ atsakytojas turi agento profilį „orpix.io“ tuo pačiu el. pašto adresu, atsakymai bus atitinkamai susieti.</p><p> p><p>Kai atsakiklis neturi susieto agento profilio, atsakymai bus pateikiami iš boto profilio.</p>",
         "SELECTED": "pasirinkta"
       },
       "SELECT_CHANNEL": {

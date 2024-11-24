@@ -1,6 +1,6 @@
 export const useInstallationName = (str, installationName) => {
   if (str && installationName) {
-    return str.replace(/Chatwoot/g, installationName);
+    return str.replace(/ORPIX.IO/g, installationName);
   }
   return str;
 };

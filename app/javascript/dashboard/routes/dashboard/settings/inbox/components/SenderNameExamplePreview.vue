@@ -31,7 +31,7 @@ export default {
           ),
           preview: {
             senderName: 'Smith',
-            businessName: 'Chatwoot',
+            businessName: 'ORPIX.IO',
             email: '<support@yourbusiness.com>',
           },
         },
@@ -45,7 +45,7 @@ export default {
           ),
           preview: {
             senderName: '',
-            businessName: 'Chatwoot',
+            businessName: 'ORPIX.IO',
             email: '<support@yourbusiness.com>',
           },
         },

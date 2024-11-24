@@ -12,7 +12,7 @@ docker compose up -d --remove-orphans
 docker compose down
 
 -- build image
-docker buildx build --platform linux/amd64 -t devopsorpix/cep:v1.1.0 -f ./docker/Dockerfile .
+docker buildx build --platform linux/amd64 -t devopsorpix/cep:v1.0.0 -f ./docker/Dockerfile .
 
 -- push image (after login to hub)
-docker push devopsorpix/cep:v1.1.0
+docker push devopsorpix/cep:v1.0.0

@@ -12,4 +12,4 @@ docker compose up -d --remove-orphans
 docker compose down
 
 -- build image
-docker buildx build --platform linux/amd64 -t andia/chatwoot:v3.15.0 -f ./docker/Dockerfile .
+docker buildx build --platform linux/amd64 -t devopsorpix/cep:v1.1.0 -f ./docker/Dockerfile .
